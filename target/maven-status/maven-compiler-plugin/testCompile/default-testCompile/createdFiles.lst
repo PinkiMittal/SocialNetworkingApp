@@ -1,0 +1,10 @@
+com\codurance\socialnetworking\app\command\CommandDispatcherTest.class
+com\codurance\socialnetworking\app\command\PostCommandTest.class
+com\codurance\socialnetworking\app\command\MixedCommandTest.class
+com\codurance\socialnetworking\app\util\MessagePrinterTest.class
+com\codurance\socialnetworking\app\command\WallCommandTest.class
+com\codurance\socialnetworking\app\command\ReadCommandTest.class
+com\codurance\socialnetworking\app\util\EnglishTimeTranslatorTest.class
+com\codurance\socialnetworking\app\command\WallCommandTest$1.class
+com\codurance\socialnetworking\app\util\TimeDescriptionTest.class
+com\codurance\socialnetworking\app\command\FollowCommandTest.class
